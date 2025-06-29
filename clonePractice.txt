@@ -1,1 +1,1 @@
-Clone a github repo
+git clone <repo https link> -> to clone a repo
